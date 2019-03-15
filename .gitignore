@@ -1,2 +1,4 @@
 .idea/
 .gradle/
+*.py[cod]
+*.class
